@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Turbayar 👋
 
-<!--
-**TZ4343/TZ4343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at UIC  
+🚗 Focused on simulation systems, VR, and software engineering  
+⚙️ Experience with Python, C++, Unreal Engine, and CARLA  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Driving Simulator (CARLA)
+- Driving Simulator (BeamNG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python, Java, C/C++, Unreal Engine, SQL, JavaScript
+
+## 📫 Contact
+Email: turbayarzorig@gmail.com
+LinkedIn: https://linkedin.com/in/turbayar
